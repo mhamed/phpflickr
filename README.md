@@ -3,7 +3,6 @@
 by [Dan Coulter](http://twitter.com/danco)
 
 A PHP wrapper for the Flickr API.
- (just some tst)
 
 Installation
 ============
